@@ -4,8 +4,6 @@
 
 An app for mocking locations on Android. **This project is for Delphi 11 (or higher) only**
 
-Currently (as at Jan 2nd, 2022) there appear to be some issues with making mock locations work with this app. See the [issues page](https://github.com/DelphiWorlds/MockLoc/issues) for details
-
 Dependent on the [Kastri library](https://github.com/DelphiWorlds/Kastri).
 
 Compatible with [Embarcadero](https://wwww.embarcadero.com) [Delphi](https://www.embarcadero.com/products/delphi)
